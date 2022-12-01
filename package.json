@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"start": "electron index.js",
+		"test": "electron index1.js"
+	},
+	"dependencies": {
+		"electron": "^22.0.0",
+		"node-datachannel": "^0.4.0"
+	}
+}
